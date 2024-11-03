@@ -1,4 +1,4 @@
-## Fuzzie
+# Fuzzie
 
 Fuzzie is a powerful automation platform that allows users to streamline their workflows by connecting various tools and services through a visual, diagram-like interface. With Fuzzie, you can automate repetitive tasks and processes across multiple applications without writing a single line of code, making work more efficient and seamless.
 
@@ -20,11 +20,11 @@ Table of Contents
 	9.	Contributing
 	10.	License
 
-## Introduction
+# Introduction
 
 Fuzzie automates your workflows by linking tools and services through customizable diagrams. Imagine your workflow as a series of connected nodes—Fuzzie lets you set up your tasks visually by connecting these nodes and configuring actions for each. Whether you’re integrating communication apps like Discord or productivity tools like Notion, Fuzzie adapts to fit your process.
 
-# Key Features
+## Key Features
 
 	•	Drag-and-Drop Workflow Builder: Design your automation workflows using an intuitive drag-and-drop interface.
 	•	Multi-Tool Integration: Integrate a wide variety of popular tools and services, including Google Email, Discord, Meta, Notion, AI tools, and more.
@@ -32,9 +32,9 @@ Fuzzie automates your workflows by linking tools and services through customizab
 	•	Real-Time Monitoring: Track the execution of each workflow step and see real-time status updates.
 	•	Error Handling: Built-in error management with notifications for seamless troubleshooting.
 
-## Getting Started
+# Getting Started
 
-# Installation
+## Installation
 
 To start using Fuzzie, download the application package or use the web-based version. Follow these steps to install:
 
@@ -55,13 +55,13 @@ npm start
 
 
 
-# Creating an Account
+## Creating an Account
 
 	1.	Launch Fuzzie and click on Sign Up.
 	2.	Fill out the required information (email, password).
 	3.	Verify your email address and log in to get started.
 
-# Using Fuzzie
+## Using Fuzzie
 
 Workflow Creation
 
@@ -72,7 +72,7 @@ Workflow Creation
 	•	Drag and drop nodes to represent tasks or actions.
 	•	Connect nodes with lines to define the flow of actions.
 
-# Connecting Tools
+## Connecting Tools
 
 To integrate a tool like Google Email or Discord, follow these steps:
 
@@ -84,7 +84,7 @@ To integrate a tool like Google Email or Discord, follow these steps:
 	3.	Define Actions:
 	•	For each tool, define the specific action(s) you want Fuzzie to automate (e.g., send an email, create a new message in Discord).
 
-# Building Automation
+## Building Automation
 
 Each step in your workflow can perform actions based on different triggers. Configure each node to perform actions such as:
 
@@ -92,7 +92,7 @@ Each step in your workflow can perform actions based on different triggers. Conf
 	•	Post a Message in Slack when a new document is added to Notion.
 	•	Trigger AI Processing for advanced tasks.
 
-# Supported Integrations
+## Supported Integrations
 
 Fuzzie supports a wide range of popular tools:
 
@@ -103,7 +103,7 @@ Fuzzie supports a wide range of popular tools:
 
 …and many more. For the full list, refer to the Integration Documentation.
 
-# Examples
+## Examples
 
 Example 1: Automated Meeting Notes
 
@@ -130,14 +130,14 @@ Error Handling
 
 Fuzzie supports custom error notifications and fallback actions. This ensures smooth execution even if a step in the workflow fails.
 
-# FAQ
+## FAQ
 
 	•	What if I need a tool that isn’t supported yet?
 	•	We’re always adding new integrations. Reach out to our support team or contribute by developing an integration.
 	•	How secure is Fuzzie?
 	•	Security is a priority, and we follow best practices for data encryption and access control.
 
-# Contributing
+## Contributing
 
 We welcome contributions! Whether you want to improve documentation, suggest new integrations, or add features, please review our Contribution Guidelines.
 
@@ -147,7 +147,7 @@ We welcome contributions! Whether you want to improve documentation, suggest new
 	4.	Push to the branch (git push origin feature/YourFeatureName)
 	5.	Open a Pull Request
 
-# License
+## License
 
 Fuzzie is licensed under the MIT License. See LICENSE for details.
 
