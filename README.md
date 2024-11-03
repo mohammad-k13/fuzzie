@@ -66,23 +66,23 @@ npm start
 Workflow Creation
 
 	1.	Create a New Workflow:
-	•	Go to the Workflows section and click New Workflow.
-	•	Name your workflow and start by adding tools to the diagram.
+		•	Go to the Workflows section and click New Workflow.
+		•	Name your workflow and start by adding tools to the diagram.
 	2.	Add and Arrange Components:
-	•	Drag and drop nodes to represent tasks or actions.
-	•	Connect nodes with lines to define the flow of actions.
+		•	Drag and drop nodes to represent tasks or actions.
+		•	Connect nodes with lines to define the flow of actions.
 
 ## Connecting Tools
 
 To integrate a tool like Google Email or Discord, follow these steps:
 
 	1.	Go to Integrations:
-	•	In the workflow editor, click Integrate Tools.
-	•	Select the tool you want to connect, like Google Email or Notion.
+		•	In the workflow editor, click Integrate Tools.
+		•	Select the tool you want to connect, like Google Email or Notion.
 	2.	Authorize Access:
-	•	Follow the authorization steps to allow Fuzzie access to the tool.
+		•	Follow the authorization steps to allow Fuzzie access to the tool.
 	3.	Define Actions:
-	•	For each tool, define the specific action(s) you want Fuzzie to automate (e.g., send an email, create a new message in Discord).
+		•	For each tool, define the specific action(s) you want Fuzzie to automate (e.g., send an email, create a new message in Discord).
 
 ## Building Automation
 
@@ -109,16 +109,16 @@ Example 1: Automated Meeting Notes
 
 	1.	Objective: Automatically send meeting summaries to team members on Slack.
 	2.	Workflow Setup:
-	•	Connect Google Calendar for meeting events.
-	•	Use Notion to generate and save notes.
-	•	Send the notes to Slack after each meeting.
+		•	Connect Google Calendar for meeting events.
+		•	Use Notion to generate and save notes.
+		•	Send the notes to Slack after each meeting.
 
 Example 2: Social Media Auto-Publish
 
 	1.	Objective: Auto-publish new blog posts on social media.
 	2.	Workflow Setup:
-	•	Detect new content on your website or CMS.
-	•	Share it on Twitter, LinkedIn, and Meta using the Fuzzie workflow.
+		•	Detect new content on your website or CMS.
+		•	Share it on Twitter, LinkedIn, and Meta using the Fuzzie workflow.
 
 Advanced Topics
 
