@@ -1,6 +1,4 @@
-Here’s a detailed README file for Fuzzie:
-
-Fuzzie
+## Fuzzie
 
 Fuzzie is a powerful automation platform that allows users to streamline their workflows by connecting various tools and services through a visual, diagram-like interface. With Fuzzie, you can automate repetitive tasks and processes across multiple applications without writing a single line of code, making work more efficient and seamless.
 
